@@ -1,0 +1,1 @@
+2021-10-10 16:02:34	admin	http://localhost/processwire-master/processwire/login/	Successful login for 'admin'
