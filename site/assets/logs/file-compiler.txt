@@ -3,3 +3,4 @@
 2021-10-10 16:02:07	guest	http://localhost/processwire-master/	Compiled file: /site/templates/_func.php
 2021-10-10 16:02:40	admin	http://localhost/processwire-master/about/	Compiled file: /site/templates/basic-page.php
 2021-10-10 16:02:47	admin	http://localhost/processwire-master/site-map/	Compiled file: /site/templates/sitemap.php
+2021-10-11 17:49:57	admin	http://localhost/processwire-master/	Compiled file: /site/templates/home.php

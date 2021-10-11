@@ -3,6 +3,8 @@
 include('./_head.php'); // include header markup ?>
 
 	<div id='content'><?php
+
+		echo "<h2> hola </h2>";
 	
 		// output 'headline' if available, otherwise 'title'
 		echo "<h1>" . $page->get('headline|title') . "</h1>";

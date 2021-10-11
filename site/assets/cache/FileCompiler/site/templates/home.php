@@ -3,6 +3,8 @@
  include(\ProcessWire\wire('files')->compile(\ProcessWire\wire("config")->paths->root . 'site/templates/_head.php',array('includes'=>true,'namespace'=>true,'modules'=>true,'skipIfNamespace'=>true))); // include header markup ?>
 
 	<div id='content'><?php
+
+		echo "<h2> hola </h2>";
 	
 		// output 'headline' if available, otherwise 'title'
 		echo "<h1>" . $page->get('headline|title') . "</h1>";
